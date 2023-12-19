@@ -12,7 +12,7 @@ Display what you're working on in Ghidra to Discord via rich presence. ![greenDr
 3. Click on the green plus icon and select the downloaded zip file.
 4. Close the windows and restart Ghidra.
 
-## Manual installation
+## Building From Source
 1. Clone the repository in IntelliJ.
 2. Build the project.
 3. Open Ghidra and go to `File > Install Extensions...`

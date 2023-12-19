@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb0e2cb4-8eb1-4ad8-94dd-4889c7d3fcfa" name="Changes" comment="Reduce preview gif file size">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="cb0e2cb4-8eb1-4ad8-94dd-4889c7d3fcfa" name="Changes" comment="Minor fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +96,7 @@
       <updated>1702589141224</updated>
       <workItem from="1702589142287" duration="4634000" />
       <workItem from="1702652173445" duration="52000" />
-      <workItem from="1702652250424" duration="38493000" />
+      <workItem from="1702652250424" duration="38524000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -165,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702963855352</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Minor fix">
+      <option name="closed" value="true" />
+      <created>1702963928914</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702963928914</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +184,8 @@
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Add LICENSE" />
     <MESSAGE value="Reduce preview gif file size" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reduce preview gif file size" />
+    <MESSAGE value="Minor fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor fix" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
