@@ -21,4 +21,5 @@ Display what you're working on in Ghidra to Discord via rich presence. ![greenDr
 
 ## Notes
 This extension has only been tested with the CodeBrowser tool.
+
 Ghidra is licensed under the Apache License 2.0, see [LICENSE](LICENSE) for more information.
