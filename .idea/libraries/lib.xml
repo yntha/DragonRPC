@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/discord-game-sdk4j-0.5.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/discord-game-sdk4j-0.5.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/discord-game-sdk4j-0.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

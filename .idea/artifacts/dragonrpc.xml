@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dragonrpc">
+    <output-path>$PROJECT_DIR$/out/artifacts/dragonrpc</output-path>
+    <root id="archive" name="dragonrpc.zip">
+      <element id="directory" name="DragonRPC">
+        <element id="directory" name="data">
+          <element id="dir-copy" path="$PROJECT_DIR$/data" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="dir-copy" path="$PROJECT_DIR$/lib" />
+          <element id="archive" name="DragonRPC.jar">
+            <element id="directory" name="META-INF">
+              <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+            </element>
+            <element id="module-output" name="dragonrpc" />
+            <element id="directory" name="lib">
+              <element id="directory" name="aarch64">
+                <element id="dir-copy" path="$PROJECT_DIR$/lib/aarch64" />
+              </element>
+              <element id="directory" name="x86">
+                <element id="dir-copy" path="$PROJECT_DIR$/lib/x86" />
+              </element>
+              <element id="directory" name="x86_64">
+                <element id="dir-copy" path="$PROJECT_DIR$/lib/x86_64" />
+              </element>
+            </element>
+          </element>
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/extension.properties" />
+        <element id="file-copy" path="$PROJECT_DIR$/Module.manifest" />
+      </element>
+    </root>
+  </artifact>
+</component>
